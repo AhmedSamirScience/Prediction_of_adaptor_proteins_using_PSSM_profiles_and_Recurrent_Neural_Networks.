@@ -63,8 +63,7 @@ Our best result of the model, we have got it in the twenty-one epoch's number an
 
 Last but not least, physical characteristics was already successfully applied in bioinformatics. Theoretically, this can be done as such, since it is possible to mix PSSM characteristics and physicochemical proteins. Following this, these hybrid capabilities could be inserted into our proposed architecture. It is important that future studies focus on these hybrid features in order to better the protein function prediction results.
 
-#### To get more information about our repository, just send us an email from these links below and we will send you the documents related to this study for a better understanding.
-➟[I'm an inline-style link](https://www.linkedin.com/in/ahmedsamir13/)
+#### To get more information about our repository, just send us an email from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you the documents related to this study for a better understanding.
 
  
 
