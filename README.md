@@ -56,8 +56,7 @@ We will use an RNN model in this study to differentiate adaptor proteins from no
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/specifity_result.png" height="300" width="400" ></p>
 
 Our best result of the model, we have got it in the twenty-one epoch's number and the results were 0.71 for training loss, 0.84 for training accuracy, 0.92 for training sensitivity,  0.83 for training specificity, 0.54 for MCC,  0.94 for the area under the cover, 1.01 for loss validation, 0.81 for accuracy validation, 0.77 for the validation sensitivity, 0.82 for validation specificity, 0.41 for MCC validation, and 0.87 for the area under the curve. According to these above figures, the worst result of the model, we have got it in the thirty epoch's number and the results were 1.04 for training loss, 0.73 for training accuracy, 0.82 for training sensitivity,  0.72 for training specificity, 0.35 for MCC,  0.83 for the area under the cover, 1.09 for loss validation, 0.72 for accuracy validation, 0.77 for the validation sensitivity, 0.72 for validation specificity, 0.31 for MCC validation, and 0.80 for the area under the curve.
-</p>
-<p href="url"  align="center" >
+ 
 |              | Sensitivity | Specificity | Accuracy| AUC  | MCC   |                                               
 | ------------ |:-----------:| -----------:| --------|:----:| -----:|
 | k-NN.        | 0.635       | 0.750       | 0.738  | 0.770 | 0.254 |
@@ -67,7 +66,7 @@ Our best result of the model, we have got it in the twenty-one epoch's number an
 | RNN          | 0.81        | 0.751       | 0.757  | 0.853 | 0.373 |
 | Our Rnn Model| `0.92`      | 0.83        | 0.84   | `0.94`| `0.54`|
      
-</p>
+
 ***
 ## 6 - Suggestions for improvement:
 
