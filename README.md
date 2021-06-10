@@ -68,6 +68,7 @@ Last but not least, physical characteristics was already successfully applied in
 
 
 
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 
  
