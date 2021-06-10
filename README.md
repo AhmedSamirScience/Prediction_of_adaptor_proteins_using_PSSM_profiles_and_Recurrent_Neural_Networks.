@@ -13,7 +13,7 @@ We will use an RNN model in this study to differentiate adaptor proteins from no
 
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/data_collection_diagram.png" height="600" width="400" ></p>
 
-### This dataset consists of 10,764 proteins belonging to two classes:
+##### This dataset consists of 10,764 proteins belonging to two classes:
      9695 non-adaptor proteins. 
      1069 adaptor proteins.
 
