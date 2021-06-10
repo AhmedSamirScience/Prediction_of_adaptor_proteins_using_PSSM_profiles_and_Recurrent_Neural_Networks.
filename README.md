@@ -65,10 +65,7 @@ Last but not least, physical characteristics was already successfully applied in
 
 #### ➟To get more information about our repository, just send us an email and we will send you the documents related to this study for a better understanding.
 
-
-
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+https://www.mozilla.org
 
 
  
