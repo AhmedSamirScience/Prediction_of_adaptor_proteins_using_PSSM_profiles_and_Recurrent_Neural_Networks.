@@ -26,15 +26,16 @@ Therfore, we obtained 4,049 adaptor proteins of all organisms. A solution to the
 
 ## 3 - Results:
 
-<p  href="url" float="left">
-  <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png" height="300" width="400"  />
- <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png" height="300" width="400" /> 
- <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png" height="300" width="400" />
+<p  href="url" float="center">
+  <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png"             height="300" width="400"  />
+ <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/auc_result.png"              height="300" width="400" /> 
 </p>
-<p align="right" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png" height="300" width="400" ></p>
-<p href="url"  align="left" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/auc_result.png" height="300" width="400" ></p>
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/mcc_result.png" height="300" width="400" ></p>
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/senstivity_result.png" height="300" width="400" ></p>
+
+<p  href="url" float="center">
+  <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/mcc_result.png"             height="300" width="400"  />
+ <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/senstivity_result.png"              height="300" width="400" /> 
+</p>
+   
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/specifity_result.png" height="300" width="400" ></p>
 
 
