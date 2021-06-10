@@ -42,7 +42,7 @@ Our RNN model has been implemented throughout PyTorch with Google collaboration.
 We will use an RNN model in this study to differentiate adaptor proteins from non-adaptor proteins. This is shown in the above Figures an overview of the implemented RNN model. The RNN model receives PSSM features as input from multiple 1-convolution (1-D) and one-dimensional average pooling layers and computes their features. The extracted features are then fed into GRUs, where the spatial context of the entire PSSM approach is explored and employed to make the final prediction. N represents the number of values is given as input sequence. The final pass through two layers of one-dimensional CNN and 1D one-dimensional average pool only reduced the length by N/9. As a result, this N/9 vector was sent to the GRU algorithm to fed, transferring features from the last GRU (i.e. 256 features) to the beginning of the sequence (i.e. to the input of the last sequence that acquired a feature). At long last, we computed the whole output through a Fully Connected (FC) layer (512 nodes), after which it was passed to a Sigmoid layer, and this value was finally obtained as a prediction. 
 
 
-## 5 - Results:
+## 5 - Experimental Results:
 
 <p  href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png"             height="300" width="400"  />
@@ -56,7 +56,11 @@ We will use an RNN model in this study to differentiate adaptor proteins from no
 
 Our best result of the model, we have got it in the twenty-one epoch's number and the results were 0.71 for training loss, 0.84 for training accuracy, 0.92 for training sensitivity,  0.83 for training specificity, 0.54 for MCC,  0.94 for the area under the cover, 1.01 for loss validation, 0.81 for accuracy validation, 0.77 for the validation sensitivity, 0.82 for validation specificity, 0.41 for MCC validation, and 0.87 for the area under the curve. According to these above figures, the worst result of the model, we have got it in the thirty epoch's number and the results were 1.04 for training loss, 0.73 for training accuracy, 0.82 for training sensitivity,  0.72 for training specificity, 0.35 for MCC,  0.83 for the area under the cover, 1.09 for loss validation, 0.72 for accuracy validation, 0.77 for the validation sensitivity, 0.72 for validation specificity, 0.31 for MCC validation, and 0.80 for the area under the curve.
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 ## 6 - Suggestions for improvement
