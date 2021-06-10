@@ -26,6 +26,11 @@ Therfore, we obtained 4,049 adaptor proteins of all organisms. A solution to the
 
 ## 3 - Results:
 
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/acc_result.png" height="400" width="900" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/auc_result.png" height="400" width="900" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/mcc_result.png" height="400" width="900" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/senstivity_result.png" height="400" width="900" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Prediction-of-adaptor-proteins-using-PSSM-profiles-and-Recurrent-Neural-Networks.-/blob/main/specifity_result.png" height="400" width="900" ></p>
 
 
 
