@@ -67,7 +67,7 @@ Our best result of the model, we have got it in the twenty-one epoch's number an
 | Our Rnn Model| `0.92`      | 0.83        | 0.84   | `0.94`| `0.54`|
 
 ***
-## 6 - Suggestions for improvement
+## 6 - Suggestions for improvement:
 
 Last but not least, physical characteristics was already successfully applied in bioinformatics. Theoretically, this can be done as such, since it is possible to mix PSSM characteristics and physicochemical proteins. Following this, these hybrid capabilities could be inserted into our proposed architecture. It is important that future studies focus on these hybrid features in order to better the protein function prediction results.
 
